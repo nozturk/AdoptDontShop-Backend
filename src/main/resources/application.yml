@@ -1,0 +1,6 @@
+logging:
+  level:
+    root: ERROR
+    org.springframework: DEBUG
+    com.adoptdontshop: DEBUG
+    org.hibernate: ERROR
